@@ -15,3 +15,5 @@
 "OUTCOME" : The project results in a visual dashboard that provides insight into upcoming weather conditions. It demonstrates real-world usage of API consumption and data visualization, fulfilling the objectives of hands-on experience with modern Python development tools.
 
 "TOOLS AND LIBRARIES USED" : requests – To fetch data from OpenWeatherMap API matplotlib – For plotting temperature and humidity trends seaborn – For enhanced and styled data visualization datetime – To convert and format timestamp data# API-INTEGRATION-AND-DATA-VISUALIZATION
+
+"OUTPUT" : ![Image](https://github.com/user-attachments/assets/bf211b4a-8a66-46a8-ae1b-610723b95a40)
